@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 /**
  * Clase Principal
  */
@@ -9,5 +11,6 @@ public class Main {
     public static void main(String[] args) {
         // Imprime un mensaje
         System.out.println("Hola Examen!");
+        System.out.println("Examen finalizado");
     }
 }
